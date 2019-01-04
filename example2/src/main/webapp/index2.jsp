@@ -8,10 +8,6 @@
 </head>
 <body>
 Hello World!
-<<<<<<< master
-22222222 Change
-=======
 22222222 Change ?????
->>>>>>> b558eea 체리픽
 </body>
 </html>
